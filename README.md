@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-🌐 Freelancer working on IT projects.<br>😎 I’m working on my IT projects.<br>📚 I love reading detective novels.
+🌐 Freelancer working on IT projects.<br>📚 I love reading detective novels.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtoymShulyak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/artoymshulyak/)
