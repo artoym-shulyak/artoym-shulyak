@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-🌐 Freelancer working on IT projects.<br>📚 I love reading detective novels.<br>🌟 Wishing you kindness, perseverance, and self-fulfillment. Feel free to reach out—I’d love to collaborate!
+🌐 Freelancer working on IT projects.<br>🌟 Wishing you kindness, perseverance, and self-fulfillment. Feel free to reach out—I’d love to collaborate!
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtoymShulyak)
