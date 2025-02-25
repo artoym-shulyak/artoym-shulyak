@@ -3,7 +3,7 @@
 🌐 Freelancer working on IT projects.<br>🌟 Wishing you kindness, perseverance, and self-fulfillment. Feel free to reach out—I’d love to collaborate!
 
 ## 🌐 Socials:
-[![TELEGRAM CHANNEL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodderDiary) [![Freelance.ru](https://img.shields.io/badge/Freelance.ru-18A303?style=for-the-badge&logoColor=white)](https://freelance.ru/ArtoymShulyak) [![Write to me](https://img.shields.io/badge/Write_to_me-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtoymShulyak)  
+[![Freelance.ru](https://img.shields.io/badge/Freelance.ru-18A303?style=for-the-badge&logoColor=white)](https://freelance.ru/ArtoymShulyak) [![Telegram](https://img.shields.io/badge/Write_to_me-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtoymShulyak)  
  
 
 
